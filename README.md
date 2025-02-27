@@ -1,7 +1,26 @@
-- 👋 Hi, I’m japhet Kipkore29
-- 👀 I’m a programmer and iam looking forward to advance to higher levels 
-- 🌱 I’m currently learning HTML5, CSS3, JAVA SCRIPT
-- 💞️ I’m looking to collaborate with IWF facilitators to make sure that my dreams are achieved 
+### Hi there! 👋  
+
+I'm japhet kipkore, a full-stack developer passionate about building modern web applications.  
+
+💻 **Tech Stack:**  
+- Frontend: **HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS**  
+- Backend: **Node.js, Express.js, MongoDB, REST APIs**  
+
+🛠 **Tools I Use:**  
+- **Git & GitHub** for version control  
+- **VS Code** for coding  
+- **Linux & Command Line** for development  
+- **Codespaces** for cloud-based coding  
+
+🚀 I love creating fast, scalable, and user-friendly applications. Currently, I'm exploring new technologies to improve performance and developer experience.  
+
+🔗 **Let's Connect!**  
+
+Check out my projects below! ⬇️
+
+Let me know if you need modifications!
+
+
   
 
 <!---
