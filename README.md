@@ -1,7 +1,7 @@
 - 👋 Hi, I’m japhet Kipkore29
 - 👀 I’m a programmer and iam looking forward to advance to higher levels 
 - 🌱 I’m currently learning HTML5, CSS3, JAVA SCRIPT
-- 💞️ I’m looking to collaborate on to make sure that my dreams are achieved 
+- 💞️ I’m looking to collaborate with IWF facilitators to make sure that my dreams are achieved 
   
 
 <!---
